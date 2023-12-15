@@ -1,0 +1,22 @@
+.card{
+    margin-top: 5%;
+    width: 31% !important;
+}
+.card-body{
+    box-shadow: 0 0 10px gray;
+    border: 1px solid black;
+}
+.card-title{
+    font-size: 31px;
+    font-weight: 700;
+}
+.card-text{
+    font-size: 60px;
+}
+span{
+    font-size: 32px;
+}
+
+.stop{
+    margin-left: 55px;
+}
